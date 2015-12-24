@@ -1,4 +1,4 @@
-## Introduction
+# Docker Alpine Nginx PHP-FPM
 This is a Dockerfile to build a container image for nginx and php-fpm. The container can use environment variables to configure your web application using the templating detailed in the special features section.
 
 ## Installation
